@@ -1,4 +1,4 @@
-# 🌙 Lisa Hagan (Triple Moon Goddess)
+# 🌙 Lisa (Triple Moon Goddess)
 
 **Astrology • Herbalism • Software Engineering**  
 Building precise, ethical tools where ancient systems meet modern code.
