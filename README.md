@@ -8,7 +8,7 @@ AI-Augmented Software Architect
 
 ## ✨ About Me
 
-I'm an AI-Augmented Software Architectr with a background in cybersecurity, now focused on building **accurate, transparent astrology infrastructure** and wellness-adjacent tools that don’t bullshit the math or the people using them.
+I'm an AI-Augmented Software Architect with a background in cybersecurity, now focused on building **accurate, transparent astrology infrastructure** and wellness-adjacent tools that don’t bullshit the math or the people using them.
 
 I care deeply about:
 - Correct calculations (no vibes-only astrology)
