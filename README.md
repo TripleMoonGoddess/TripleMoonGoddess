@@ -2,12 +2,13 @@
 
 **Astrology • Herbalism • Software Engineering**  
 Building precise, ethical tools where ancient systems meet modern code.
+AI-Augmented Software Architect
 
 ---
 
 ## ✨ About Me
 
-I’m a software engineer with a background in cybersecurity, now focused on building **accurate, transparent astrology infrastructure** and wellness-adjacent tools that don’t bullshit the math or the people using them.
+I'm an AI-Augmented Software Architectr with a background in cybersecurity, now focused on building **accurate, transparent astrology infrastructure** and wellness-adjacent tools that don’t bullshit the math or the people using them.
 
 I care deeply about:
 - Correct calculations (no vibes-only astrology)
